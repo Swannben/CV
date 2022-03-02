@@ -1,0 +1,7 @@
+header {
+    background-color: red;
+    position: sticky;
+    text-align: center;
+    color: orange;
+    text-shadow: #000 0 0 .2em;
+}
